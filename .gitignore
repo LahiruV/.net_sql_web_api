@@ -13,6 +13,7 @@
 .vscode-test/
 .vs/
 _ReSharper.Caches/
+/.vs
 
 # Mono auto generated files
 mono_crash.*
